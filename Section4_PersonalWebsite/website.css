@@ -1,0 +1,33 @@
+body {
+   background-color: white;
+   background-image:url('https://media.tenor.com/images/0c02678b3920ab3894cabf7730cf3609/tenor.gif');
+   color: white;
+   font-family: "Comic Sans MS", cursive, serif;
+   font-size: 40px
+}
+
+span {
+    text-align: center;
+    color: white;
+    background-color: black; 
+    border-radius: 25px;
+}
+
+h1 {
+    text-align: center; 
+}
+h1 span { 
+    background-color: black; 
+    border-radius: 25px;
+}
+
+p {
+    text-align: center;
+}
+
+p span1 { 
+    background-color: black; 
+    border-radius: 25px;
+}
+
+
